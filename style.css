@@ -620,7 +620,7 @@ header.sticky {
 	margin-bottom: 25px;
 }
 
-.contact .action input[type="text"] {
+.contact .action input[type="name"] {
 	max-width: 100%;
 	width: 470px;
 	padding: 12px 15px;
@@ -808,4 +808,14 @@ header.sticky {
 	.contact .action form input[type="email"] {
 		width: 310px;
 	}
+	.contact .action form input[type="text"] {
+		width: 310px;
+	}
+	.contact .action form input[type="submit"] {
+		width: 310px;
+	}
+	.contact .action  input[type="name"] {
+		width: 310px;
+	}
+
 }
